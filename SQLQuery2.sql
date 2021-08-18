@@ -106,5 +106,3 @@ ORDER BY 1
 
 
 
-We have both Consulting and Product department. The consulting is the US.
-We take Projects from mini to medium sized
